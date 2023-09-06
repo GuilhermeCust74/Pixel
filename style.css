@@ -1,0 +1,65 @@
+body {
+    background-color: #202020;
+
+}
+
+.quadrado {
+    background-color: rgb(70, 44, 32);
+    height: 100px;
+    width: 100px;
+    margin: 0px;
+
+}
+
+ #t3{
+    background-color: rgb(53, 24, 24);
+ }
+ #u3{
+    background-color: rgb(53, 24, 24)
+ }
+ #y3{
+    background-color: rgb(53, 24, 24)
+ }
+  
+ #t1, #t2{
+    background-color: rgb(27, 15, 15);
+ }
+
+ #t4, #t5{
+    background-color: rgb(27, 15, 15);
+ }
+ #y1{
+    background-color:rgb(216, 213, 213);
+ }
+
+ #y2{
+    background-color: rgb(3, 77, 52);
+ }
+ #y4{
+    background-color: rgb(3, 77, 52);
+ }
+ #y5{
+    background-color:rgb(216, 213, 213);
+ }
+ #Q1{
+    background-color: #202020;
+ }
+ #yt{
+    background-color: #202020;
+ }
+
+ #u6{
+    background-color: #202020;
+ }
+
+
+
+
+
+
+
+
+
+.coluna{
+    display: flex;
+}
